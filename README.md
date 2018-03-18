@@ -1,0 +1,1 @@
+Listens for a message on an MQTT topic and plays a sound. Used in combination with an [arduino button](https://github.com/Derkades/EtenKnop)
